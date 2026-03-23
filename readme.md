@@ -55,6 +55,8 @@ Study impact of income, interest rate & loan purpose
 Build interactive dashboards
 Automate workflows using n8n
 Provide business recommendations
+
+
 ⚙️ Tech Stack
 Category	Tools Used
 Data Processing	SQL (PostgreSQL)
@@ -62,7 +64,11 @@ Analysis	Excel
 Visualization	Power BI
 Automation	n8n
 Concepts	EDA, Risk Analysis, ETL
+
+
 🔄 Project Workflow
+
+
 1️⃣ ETL (SQL)
 Data Cleaning & Validation
 Feature Engineering
