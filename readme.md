@@ -56,31 +56,53 @@ Concepts	EDA, Risk Analysis, ETL
 Data Cleaning & Validation
 Feature Engineering
 Default Rate Calculation
+
+
 2️⃣ EDA (Excel)
 Loan distribution
 Income vs loan analysis
 Interest rate trends
+
+
 3️⃣ Visualization (Power BI)
 Performance Dashboard
 Risk Dashboard
 Portfolio Overview
+
+
+
 4️⃣ Automation (n8n)
 Scheduled workflows
 Automated data pipelines
 Alert & reporting automation
+
+
 📊 Key Insights
+
 ✅ Majority loans are good loans
+
 ⚠️ Low-income borrowers → higher default risk
+
 🌍 Certain regions show high default concentration
+
 📈 Interest rate & loan term impact repayment
+
 🎯 Some loan purposes are riskier
+
+
 📈 Business Recommendations
 Strengthen risk checks in high-default regions
+
 Implement income-based credit models
+
 Monitor high-risk loan categories
+
 Use risk-adjusted interest rates
+
 Automate operations using n8n
+
 📊 Dashboards
+
 📌 Performance Analysis
 Total loans & funded amount
 Interest trends
