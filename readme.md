@@ -167,6 +167,11 @@ FastAPI deployment
 Advanced n8n automation pipelines
 
 
+link to documentation: https://docs.google.com/document/d/1dPPGQYOIBo5_6aoUwLyOY-vXJOxqz_3pq3-kiLkTnJ8/edit?usp=sharing
+
+link to excel: https://docs.google.com/spreadsheets/d/1BglcKBxDL-lvoIN9FK-TZdAuKsldVQHk/edit?usp=sharing&ouid=118201139032223455355&rtpof=true&sd=true
+
+
 👩‍💻 Author
 
 Urbeena Rashid
