@@ -11,9 +11,12 @@
 
 This project is a comprehensive FinTech data analytics and case study based on PaisaBazaar, focused on analyzing:
 
+
 📉 Financial Risk
 💰 Loan Performance
 👤 Borrower Behavior
+
+
 
 It integrates:
 
@@ -22,11 +25,17 @@ Excel & Power BI dashboards
 Business strategy analysis
 Workflow automation using n8n
 
+
+
 👉 The goal is to deliver data-driven insights + automated analytics workflows for better financial decision-making.
 
 🏦 About PaisaBazaar
 
+
+
 PaisaBazaar is a leading digital financial marketplace in India that enables users to:
+
+
 
 Compare loans, credit cards, and insurance
 Check credit score for free
@@ -35,6 +44,8 @@ Apply for financial products online
 ✔ Improves transparency
 ✔ Enhances accessibility
 ✔ Enables smarter financial decisions
+
+
 
 🎯 Project Objectives
 Analyze loan distribution & borrower patterns
